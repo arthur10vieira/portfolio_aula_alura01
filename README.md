@@ -8,7 +8,7 @@
 ## ✔️ Técnicas e tecnologias utilizadas
 
 - `html`: é a base para a construção de páginas web e desempenha um papel crucial na apresentação e organização do conteúdo online. Combinado com outras tecnologias, permite a criação de páginas visualmente atraentes e interativas, proporcionando uma experiência enriquecedora para os usuários da web.
-- `css`: é usado para definir a aparência visual desse conteúdo com um design consistente e elaborado visualmente.
+- `css`: é usado para definir a aparência visual conteúdo html com um design consistente e elaborado visualmente.
 - `JQuery`: é uma biblioteca de JavaScript de código aberto que simplifica e agiliza a manipulação de elementos HTML, a interação com eventos, animações e a realização de requisições AJAX em páginas web.
 
 ## 🛠️ Abrir e rodar o projeto
