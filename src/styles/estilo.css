@@ -151,6 +151,10 @@ footer {
         overflow: auto;
     }
 
+    .cabecalho__menu__link {
+        font-size: small;
+    }
+
     .apresentacao {
         flex-direction: column-reverse;
         padding: 5%;
