@@ -178,6 +178,7 @@ footer {
     .apresentacao__links__navegacao {
         width: auto;
         min-width: 200px;
+        font-size: small;
     }
 
     footer {
