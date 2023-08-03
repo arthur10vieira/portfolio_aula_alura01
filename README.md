@@ -1,7 +1,7 @@
 ![Front-end-Portfólio de Joana - aula de aula sobre html + css(script adicional)](https://github.com/arthur10vieira/portfolio_aula_alura01/assets/81601685/7dec2894-1918-4058-927d-28efa1d56101)
 ## Criação de portfólio com aula da Alura sobre frontend
 <p>Olá, Bem vindo ao meu projeto de portfólio</p>
-<p>Este repositório é sobre a criação do portfólio com Aula sobre html + css com alura que tive com a orientação da Rafaela e Guilherme</p>
+<p>Este repositório é sobre a criação do portfólio com Aula sobre html + css com alura que tive com a orientação da Rafaella Ballerini e Guilherme Lima</p>
 
 ## 🔨 Funcionalidades do projeto
 
