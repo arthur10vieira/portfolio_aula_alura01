@@ -15,6 +15,8 @@
 
 Para abrir e rodar o projeto, basta abrir o aquivo `index.html` no navegador.
 
+<a href="https://portfolio-aula-alura01.vercel.app/" target="-blank" title="Clique para ver o projeto">Clique para ver o projeto</a>
+
 ## 📚 Mais informações do curso
 
 Busque na plataforma da Alura o curso **A partir do zero: HTML e CSS para projetos web** publicado na Escola Frontend.
