@@ -181,6 +181,11 @@ footer {
         font-size: small;
     }
 
+    .apresentacao__links__navegacao img {
+        width: 15px;
+        height: 15px;
+    }
+
     footer {
         width: 100%;
     }
